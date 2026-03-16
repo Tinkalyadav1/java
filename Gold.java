@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.Random;
+
 
 public class Gold{
     static Scanner sc = new Scanner(System.in);
